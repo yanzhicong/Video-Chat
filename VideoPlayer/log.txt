@@ -1,0 +1,125 @@
+Video Stream : 0 	Sample aspect ratio : 0/1 	time_base : 1/10000000 	nb_frames : 0 	avg_frame_rate : 0/0 	
+Video Codec : rawvideo
+Video CodecContext : width : 640 	height : 480 	time_base : 333333/10000000 	
+Get Packet : pts : 373217780000Open File Output  	D://test.h264dts
+ : 373217780000 	now : 6232185 	
+
+Get Packet : pts : 373218430000 	dts : 373218430000 	now : 6295174 	
+Get Packet : pts : 373218900000 	dts : 373218900000 	now : 6342180 	
+Get Packet : pts : 373219380000 	dts : 373219380000 	now : 6390179 	
+Get Packet : pts : 373219860000 	dts : 373219860000 	now : 6438183 	
+Get Packet : pts : 373220340000 	dts : 373220340000 	now : 6485184 	
+Get Packet : pts : 373220820000 	dts : 373220820000 	now : 6534188 	
+Get Packet : pts : 373221310000 	dts : 373221310000 	now : 6583191 	
+Get Packet : pts : 373221780000 	dts : 373221780000 	now : 6629190 	
+Get Packet : pts : 373222420000 	dts : 373222420000 	now : 6696197 	
+Get Packet : pts : 373222900000 	dts : 373222900000 	now : 6742199 	
+Get Packet : pts : 373223380000 	dts : 373223380000 	now : 6790203 	
+Get Packet : pts : 373223860000 	dts : 373223860000 	now : 6838205 	
+Get Packet : pts : 373224340000 	dts : 373224340000 	now : 6885207 	
+Get Packet : pts : 373224820000 	dts : 373224820000 	now : 6960212 	
+Get Packet : pts : 373225300000 	dts : 373225300000 	now : 7012214 	
+Get Packet : pts : 373225940000 	dts : 373225940000 	now : 7059218 	
+Get Packet : pts : 373226420000 	dts : 373226420000 	now : 7094219 	
+
+Get Packet : pts : 373226900000 	dts : 373226900000 	now : 7142222 	
+
+Get Packet : pts : 373227380000 	dts : 373227380000 	now : 7190226 	
+
+Get Packet : pts : 373227860000 	dts : 373227860000 	now : 7238228 	
+Get Packet : pts : 373228340000 	dts : 373228340000 	now : 7286230 	
+Get Packet : pts : 373228830000 	dts : 373228830000 	now : 7335235 	
+Get Packet : pts : 373229300000 	dts : 373229300000 	now : 7382238 	
+Get Packet : pts : 373229940000 	dts : 373229940000 	now : 7446240 	
+Get Packet : pts : 373230420000 	dts : 373230420000 	now : 7494244 	
+
+Get Packet : pts : 373230900000 	dts : 373230900000 	now : 7542247 	
+Get Packet : pts : 373231380000 	dts : 373231380000 	now : 7590249 	
+Get Packet : pts : 373231860000 	dts : 373231860000 	now : 7638253 	
+Get Packet : pts : 373232340000 	dts : 373232340000 	now : 7686255 	
+Get Packet : pts : 373232820000 	dts : 373232820000 	now : 7734258 	
+Get Packet : pts : 373233300000 	dts : 373233300000 	now : 7782259 	
+
+Get Packet : pts : 373233940000 	dts : 373233940000 	now : 7846263 	
+Get Packet : pts : 373234420000 	dts : 373234420000 	now : 7894266 	
+Get Packet : pts : 373234900000 	dts : 373234900000 	now : 7942268 	
+Get Packet : pts : 373235380000 	dts : 373235380000 	now : 7990269 	
+Get Packet : pts : 373235860000 	dts : 373235860000 	now : 8038272 	
+Get Packet : pts : 373236340000 	dts : 373236340000 	now : 8086275 	
+Get Packet : pts : 373236820000 	dts : 373236820000 	now : 8134284 	
+Get Packet : pts : 373237460000 	dts : 373237460000 	now : 8198283 	
+Get Packet : pts : 373237940000 	dts : 373237940000 	now : 8246285 	
+Get Packet : pts : 373238420000 	dts : 373238420000 	now : 8294289 	
+Get Packet : pts : 373238900000 	dts : 373238900000 	now : 8342292 	
+Get Packet : pts : 373239380000 	dts : 373239380000 	now : 8390300 	
+
+Get Packet : pts : 373239860000 	dts : 373239860000 	now : 8438298 	
+
+Get Packet : pts : 373240340000 	dts : 373240340000 	now : 8486300 	
+
+Get Packet : pts : 373240820000 	dts : 373240820000 	now : 8534303 	
+Get Packet : pts : 373241460000 	dts : 373241460000 	now : 8598306 	
+Get Packet : pts : 373241940000 	dts : 373241940000 	now : 8646309 	
+Get Packet : pts : 373242420000 	dts : 373242420000 	now : 8694314 	
+Get Packet : pts : 373242900000 	dts : 373242900000 	now : 8742317 	
+Get Packet : pts : 373243380000 	dts : 373243380000 	now : 8790320 	
+Get Packet : pts : 373243860000 	dts : 373243860000 	now : 8838322 	
+Get Packet : pts : 373244340000 	dts : 373244340000 	now : 8891327 	
+Get Packet : pts : 373244820000 	dts : 373244820000 	now : 8934327 	
+Get Packet : pts : 373245460000 	dts : 373245460000 	now : 8998329 	
+Get Packet : pts : 373245940000 	dts : 373245940000 	now : 9046333 	
+Get Packet : pts : 373246420000 	dts : 373246420000 	now : 9094336 	
+
+Get Packet : pts : 373246900000 	dts : 373246900000 	now : 9142338 	
+Get Packet : pts : 373247540000 	dts : 373247540000 	now : 9206346 	
+Get Packet : pts : 373248180000 	dts : 373248180000 	now : 9270346 	
+Get Packet : pts : 373248820000 	dts : 373248820000 	now : 9334352 	
+Get Packet : pts : 373249620000 	dts : 373249620000 	now : 9414355 	
+Get Packet : pts : 373250260000 	dts : 373250260000 	now : 9478359 	
+
+Get Packet : pts : 373250900000 	dts : 373250900000 	now : 9542362 	
+Get Packet : pts : 373251540000 	dts : 373251540000 	now : 9606370 	
+Get Packet : pts : 373252180000 	dts : 373252180000 	now : 9670372 	
+Get Packet : pts : 373252980000 	dts : 373252980000 	now : 9750376 	
+Get Packet : pts : 373253620000 	dts : 373253620000 	now : 9814379 	
+Get Packet : pts : 373254260000 	dts : 373254260000 	now : 9878379 	
+Get Packet : pts : 373254900000 	dts : 373254900000 	now : 9941420 	
+Get Packet : pts : 373255540000 	dts : 373255540000 	now : 10006387 	
+Get Packet : pts : 373256180000 	dts : 373256180000 	now : 10070394 	
+Get Packet : pts : 373256980000 	dts : 373256980000 	now : 10149402 	
+Get Packet : pts : 373257620000 	dts : 373257620000 	now : 10213407 	
+Get Packet : pts : 373258260000 	dts : 373258260000 	now : 10278405 	
+Get Packet : pts : 373258900000 	dts : 373258900000 	now : 10341410 	
+Get Packet : pts : 373259540000 	dts : 373259540000 	now : 10405413 	
+Get Packet : pts : 373260180000 	dts : 373260180000 	now : 10469421 	
+Get Packet : pts : 373260980000 	dts : 373260980000 	now : 10549421 	
+Get Packet : pts : 373261620000 	dts : 373261620000 	now : 10614425 	
+Get Packet : pts : 373262260000 	dts : 373262260000 	now : 10678428 	
+Get Packet : pts : 373262900000 	dts : 373262900000 	now : 10742433 	
+Get Packet : pts : 373263540000 	dts : 373263540000 	now : 10806436 	
+Get Packet : pts : 373264180000 	dts : 373264180000 	now : 10870442 	
+Get Packet : pts : 373264980000 	dts : 373264980000 	now : 10949449 	
+Get Packet : pts : 373265620000 	dts : 373265620000 	now : 11014448 	
+Get Packet : pts : 373266260000 	dts : 373266260000 	now : 11078452 	
+Get Packet : pts : 373266900000 	dts : 373266900000 	now : 11141459 	
+Get Packet : pts : 373267540000 	dts : 373267540000 	now : 11205463 	
+Get Packet : pts : 373268180000 	dts : 373268180000 	now : 11270464 	
+Get Packet : pts : 373268980000 	dts : 373268980000 	now : 11349467 	
+Get Packet : pts : 373269620000 	dts : 373269620000 	now : 11414472 	
+Get Packet : pts : 373270260000 	dts : 373270260000 	now : 11477480 	
+Get Packet : pts : 373270900000 	dts : 373270900000 	now : 11541477 	
+Get Packet : pts : 373271540000 	dts : 373271540000 	now : 11606484 	
+Get Packet : pts : 373272340000 	dts : 373272340000 	now : 11685563 	
+Get Packet : pts : 373272980000 	dts : 373272980000 	now : 11749492 	
+Get Packet : pts : 373273620000 	dts : 373273620000 	now : 11814493 	
+Get Packet : pts : 373274260000 	dts : 373274260000 	now : 11878494 	
+Get Packet : pts : 373274900000 	dts : 373274900000 	now : 11941500 	
+Get Packet : pts : 373275540000 	dts : 373275540000 	now : 12006512 	
+Get Packet : pts : 373276340000 	dts : 373276340000 	now : 12085505 	
+Get Packet : pts : 373276980000 	dts : 373276980000 	now : 12149516 	
+
+Get Packet : pts : 373277620000 	dts : 373277620000 	now : 12213515 	
+Get Packet : pts : 373278260000 	dts : 373278260000 	now : 12278518 	
+Get Packet : pts : 373278900000 	dts : 373278900000 	now : 12341521 	
+Get Packet : pts : 373279540000 	dts : 373279540000 	now : 12406527 	
+Get Packet : pts : 373280340000 	dts : 373280340000 	now : 12485531 	
